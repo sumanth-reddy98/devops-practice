@@ -1,1 +1,2 @@
-text file with contents
+text file with contents using git repo 
+
